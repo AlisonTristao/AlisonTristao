@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I’m Alison. I’m passionate about robotics and embedded development in general. Here are my projects and files used for learning in my college.
 
 <!--
 **AlisonTristao/AlisonTristao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
