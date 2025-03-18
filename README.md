@@ -4,6 +4,8 @@
     <img style="height: 150px; width: 48%;" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlisonTristao&layout=compact"/>
 </div>
 
+#### Obsession beats talent every time
+
 <!--
 **AlisonTristao/AlisonTristao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
