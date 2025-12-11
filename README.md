@@ -2,7 +2,7 @@
 Here are my projects and files used for learning in my college.
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AlisonTristao&show_icons=true"/>
+  <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AlisonTristao&show_icons=true"/>
   <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlisonTristao&layout=compact"/>
 </div>
 
